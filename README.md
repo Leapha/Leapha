@@ -7,6 +7,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leapha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leapha&layout=compact&langs_count=6&theme=tokyonight"/>
 </table>
+
+<h3 align="left">👾 Onde me encontrar: </h3>
+
 <div> 
   <a href = "mailto: inevitavel55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/j.leapha.y/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
