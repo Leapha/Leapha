@@ -3,7 +3,7 @@
 <p> I'm currently an ADS student (UNINTER) and I am a developer focused on backend and cyber security, here you found a little of my journey and my main focuses. </p>
 
 <table>
-  <a href="https://github.com/leehxd">
+  <a href="https://github.com/leapha;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leapha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leapha&layout=compact&langs_count=6&theme=tokyonight"/>
 </table>
