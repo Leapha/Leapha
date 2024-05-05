@@ -7,10 +7,7 @@ Hello, I'm Jamily, a student of Systems Analysis and Development at UNINTER; Pas
 🎓Academic Background: I am currently pursuing a degree in Systems Analysis and Development at UNINTER, where I have been delving into fundamental and practical concepts in the field.
 
 💡 Technical Skills: I have proficiency in programming languages such as JAVA, JavaScript, Python, as well as expertise in web technologies like CSS and HTML5. Additionally, I have been deepening my studies in MySQL databases.
-
-🔍 Seeking Opportunities: I am excited to embark on my professional journey and contribute meaningfully to challenging and innovative projects in the development field.
-
-🤝 Networking and Learning: I am open to networking opportunities, mentorship, and continuous learning, and I am eager to connect with experienced professionals and learn from their experiences. 🚀 </p>
+ </p>
 
 <table>
   <a href="https://github.com/Leapha">
