@@ -5,7 +5,7 @@
 <table>
   <a href="https://github.com/Leapha">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leapha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leapha&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leapha&layout=compact&langs_count=6&theme=tokyonight"/>
 </table>
 
 <h3 align="left">👾 Where to find me: </h3>
